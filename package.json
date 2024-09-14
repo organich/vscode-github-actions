@@ -563,8 +563,8 @@
   "dependencies": {
     "@actions/languageserver": "*",
     "@actions/workflow-parser": "*",
-    "@octokit/rest": "^19.0.7",
-    "@vscode/vsce": "^2.19.0",
+    "@octokit/rest": "^19.0.13",
+    "@vscode/vsce": "^2.32.0",
     "buffer": "^6.0.3",
     "crypto-browserify": "^3.12.0",
     "dayjs": "^1.11.7",
